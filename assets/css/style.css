@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-logo {
+    background-image: url('/assets/img/logo.PNG');
+    background-size: contain;
+    background-repeat: no-repeat;
